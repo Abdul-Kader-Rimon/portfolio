@@ -135,7 +135,8 @@ const Hero = () => {
 
               <div className="hero-buttons flex flex-wrap gap-4 pt-4 opacity-0">
                 <AnimatedButton
-                  href="#"
+                  href="/public/images/RESUME.pdf"
+                  download="Abdul_Kader_Resume.pdf"
                   variant="primary"
                   size="lg"
                   animationType="glow"
